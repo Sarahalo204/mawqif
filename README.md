@@ -1,4 +1,6 @@
-![p3](https://github.com/user-attachments/assets/10e08575-a96d-4c00-bc04-53d977a67cd1)
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/10e08575-a96d-4c00-bc04-53d977a67cd1" width="120" />
+</p>
 
 # 🚗 Parking Violation Detection (Deep Learning Models)
 
